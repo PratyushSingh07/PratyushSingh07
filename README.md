@@ -1,32 +1,30 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
+</div>
 
-<!--
-**PratyushSingh07/PratyushSingh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I'm Pratyush Singh</h1>
+<h3 align="center">A passionate Android developer from India</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Cyclofit**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋
+- 🌱 I’m currently learning **MVVM Architecture**
 
-<img src="https://komarev.com/ghpvc/?username=PratyushSingh07&style=flat-square" alt="PratyushSingh07" /><br>
+- 👯 I’m looking to collaborate on **Web / Android Development**
 
+- 💬 Ask me about **Kotlin , JAVA , DSA**
+
+- 📫 Reach out to me on **aries.pratyush@gmail.com**
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/PratyushSingh07"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=PratyushSingh07"></a>
-</p><br>
+<a href="https://www.linkedin.com/in/pratyush-singh-9323ab20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gupta-009520226" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/Pr8yush07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya_gupta99" height="30" width="40" /></a>
+</p>
 
-  <a href="https://twitter.com/Praty">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="mailto:aries.pratyush@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
 
-<!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PratyushSingh07&show_icons=true&locale=en&layout=compact" alt="PratyushSingh07" /></p>
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushSingh07&show_icons=true&locale=en" alt="PratyushSingh07" /></p>

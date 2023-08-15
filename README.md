@@ -20,7 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/pratyush-singh-9323ab20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gupta-009520226" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/Pr8yush07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya_gupta99" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/Pr8yush07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="PratyushSingh07" height="30" width="40" /></a>
 </p>
 
 

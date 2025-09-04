@@ -7,15 +7,13 @@
 <h1 align="center">I'm Pratyush Singh</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🔭 I’m currently working on **Cyclofit**
+- 🌱 I’m currently learning **Jetpack Compose & intriguing stuffs around BLE protocol**
 
-- 🌱 I’m currently learning **MVVM Architecture**
-
-- 👯 I’m looking to collaborate on **Web / Android Development**
+- 👯 I’m looking to collaborate on **Backend / Android Development**
 
 - 💬 Ask me about **Kotlin , JAVA , DSA**
 
-- 📫 Reach out to me on **aries.pratyush@gmail.com**
+- 📫 Reach out to me on **connect.pratyush.me@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
